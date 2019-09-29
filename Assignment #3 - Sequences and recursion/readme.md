@@ -36,6 +36,6 @@ In the last part we use iterable in order to look through the list and compare e
 
 <h1>Setup</h1>
 
-  <p>Clone the project then, open it in a java ide</p>
+  <p>Clone the project then, open it in a java ide, then run the main class</p>
 
 
