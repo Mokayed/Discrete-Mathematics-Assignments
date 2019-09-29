@@ -1,7 +1,7 @@
 <h1>Assignment #3 - Sequences and recursion</h1>
 
 <p>
-1 Rational sequence
+Rational sequence
 Create a class Rationals that implements the Sequence of Positive Rational
 Numbers as discussed in class.
 The class must implement a method String rational(long n) that returns
