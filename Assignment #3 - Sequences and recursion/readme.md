@@ -12,7 +12,7 @@ Also let the class implement Iterable (IEnumerable in C#)
 
 <h1>What we created</h1>
 
-<p>We create a program that auto generate a list with rationals then search in the list</p>
+<p>We create a program that auto-generate a list with rationals, then search the rational list for the number on the nth place in the sequence</p>
 
 <h4>GenerateList-methode</h4
   
