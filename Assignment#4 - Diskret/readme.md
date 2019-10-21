@@ -6,4 +6,4 @@ Discrete Mathematics</h1>
 
 <h1>What we created</h1>
 
-<img src="https://github.com/Mokayed/Discrete-Mathematics-Assignments/blob/master/Assignment%234%20-%20Diskret/state.PNG" alt="UML"  height="auto" width="auto">
+<img src="https://github.com/Mokayed/Discrete-Mathematics-Assignments/blob/master/Assignment%234%20-%20Diskret/f-state.PNG" alt="UML"  height="auto" width="auto">
